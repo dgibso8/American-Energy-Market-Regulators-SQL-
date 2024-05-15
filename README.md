@@ -1,6 +1,6 @@
-<h1>JWipe - Disk Sanitization</h1>
+<h1>American Energy Market Regulators</h1>
 
- ### American Energy Market Regulators in SQL(http://localhost:8888/notebooks/Desktop/AMER.ipynb#)
+ ### (http://localhost:8888/notebooks/Desktop/AMER.ipynb#)
 
 <h2>Description</h2>
 
