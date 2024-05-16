@@ -13,10 +13,3 @@ From 2016-2017 the American Energy Market Regulators received an increase in the
 - <b>TABLEAU</b>
 - <b>JupyterNotebook</b>
 
-
-
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
